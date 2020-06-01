@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="116dp"
         android:layout_height="56dp"
-        android:text="food hub"
+        android:text="food hub j j j"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintLeft_toLeftOf="parent"
